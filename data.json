@@ -28,3 +28,9 @@
   "latency_ms": 95,
   "status": "success"
 }
+{
+  "query_id": "19283",
+  "timestamp": "2025-04-05",
+  "latency_ms": 76,
+  "status": "success"
+}
