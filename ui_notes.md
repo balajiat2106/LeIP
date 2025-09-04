@@ -72,3 +72,4 @@
 - UI tweak on 2025-05-27: improved response rendering
 - UI tweak on 2025-06-16: improved response rendering
 - UI tweak on 2025-09-02: improved response rendering
+- UI tweak on 2025-09-04: improved response rendering
