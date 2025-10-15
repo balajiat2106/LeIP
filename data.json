@@ -178,3 +178,9 @@
   "latency_ms": 154,
   "status": "success"
 }
+{
+  "query_id": "3561",
+  "timestamp": "2025-10-15",
+  "latency_ms": 245,
+  "status": "success"
+}
