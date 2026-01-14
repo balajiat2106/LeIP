@@ -244,3 +244,9 @@
 - Tuned prompt templates
 - Minor fixes in API responses
 
+## Update - 2026-01-14
+
+- Improved retrieval quality
+- Tuned prompt templates
+- Minor fixes in API responses
+
