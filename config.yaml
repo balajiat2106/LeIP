@@ -397,3 +397,10 @@ model:
 retrieval:
   top_k: 3
 
+model:
+  name: gpt-4
+  temperature: 0.6
+
+retrieval:
+  top_k: 5
+
