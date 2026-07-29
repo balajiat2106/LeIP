@@ -652,3 +652,9 @@ def run_rag(query):
     docs = ["doc1", "doc2"]
     return {"answer": "generated", "date": "2026-07-26"}
 
+# RAG update - 2026-07-29
+
+def run_rag(query):
+    docs = ["doc1", "doc2"]
+    return {"answer": "generated", "date": "2026-07-29"}
+
