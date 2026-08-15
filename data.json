@@ -496,3 +496,9 @@
   "latency_ms": 164,
   "status": "success"
 }
+{
+  "query_id": "5985",
+  "timestamp": "2026-08-15",
+  "latency_ms": 435,
+  "status": "success"
+}
