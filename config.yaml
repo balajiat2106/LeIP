@@ -1013,3 +1013,10 @@ model:
 retrieval:
   top_k: 5
 
+model:
+  name: gpt-4
+  temperature: 0.2
+
+retrieval:
+  top_k: 4
+
